@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
     <string name="edit_message">Enter a message</string>
-    <st1ring name="button_send">Send</st1ring>
+    <string name="button_send">Send</string>
 </resources>
